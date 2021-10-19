@@ -1,3 +1,6 @@
+ React project using multiple api calls and then mapping through them before eventually filtering through them, It was really challenging and also interesting at the same time. My knowledge of hooks and using state was increased. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
