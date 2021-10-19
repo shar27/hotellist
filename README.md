@@ -1,4 +1,6 @@
  React project using multiple api calls and then mapping through them before eventually filtering through them, It was really challenging and also interesting at the same time. My knowledge of hooks and using state was increased. 
+ 
+ I had to useState, useEffect, Fetch, .map, .filter and .toString
 
 
 # Getting Started with Create React App
